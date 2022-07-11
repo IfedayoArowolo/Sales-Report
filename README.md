@@ -1,0 +1,1 @@
+# Sales-Report for a ficitious company named Axis. The data is transformed and manipulated in power BI and the graphs are created using Power BI build in charts. The analysis helps in getting better understanding of the areas or products that can help boost company sales. It helps the company take wise and timely decisions.
